@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ramil.Malik_DEV\\.nuget\\packages\\": {}
+    "C:\\Users\\ramil.ahmad\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ramil.Malik_DEV\\source\\Test\\CA.TEST.WebAPI\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\ramil.ahmad\\Test.CA\\CA.TEST.WebAPI\\CA.TEST.WebAPI\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Ramil.Malik_DEV\\source\\Test\\CA.TEST.WebAPI\\Domain\\Domain.csproj",
-      "packagesPath": "C:\\Users\\Ramil.Malik_DEV\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ramil.Malik_DEV\\source\\Test\\CA.TEST.WebAPI\\Domain\\obj\\",
+      "projectPath": "C:\\Users\\ramil.ahmad\\Test.CA\\CA.TEST.WebAPI\\CA.TEST.WebAPI\\Domain\\Domain.csproj",
+      "packagesPath": "C:\\Users\\ramil.ahmad\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ramil.ahmad\\Test.CA\\CA.TEST.WebAPI\\CA.TEST.WebAPI\\Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Ramil.Malik_DEV\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ramil.ahmad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -52,17 +56,11 @@
           "net47",
           "net471",
           "net472",
-          "net48",
-          "net481"
+          "net48"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
